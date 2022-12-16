@@ -1,0 +1,29 @@
+:root{
+    color: brown;
+    background-color: burlywood;
+}
+
+div{
+    background-color: brown;
+    align-items:  center;
+}
+
+h1{
+    color: white;
+    background-attachment: brown;
+    font-weight: 900;
+    text-align: center;
+}
+
+.home-img{
+    height: 150px;
+    width: 150px;
+    align-items: center;
+    padding-left: 45%;
+}
+
+.recipe-img{
+    height: 300px;
+    width: 300px;
+}
+
